@@ -1,0 +1,5 @@
+# Editor and OS metadata
+.idea/
+.openidea/
+.DS_Store
+*.log
